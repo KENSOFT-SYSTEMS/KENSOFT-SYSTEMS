@@ -3,7 +3,8 @@
 A simple yet comprehensive **Rental Property Management System** built using **PHP** and **MySQL**, designed to help landlords and property managers efficiently manage apartments, houses, tenants, invoices, and payments.
 
 
-
+### Dashboard
+![Dashboard](assets/github-001.png)
 ### 🏘️ Property & Unit Management
 - Manage multiple **apartments/buildings**
 - Each apartment contains multiple **houses/units**
