@@ -1,6 +1,6 @@
 # 🏢 Rental Property Management System
 
-A simple yet comprehensive **Rental Property Management System** built using **PHP** and **MySQLi**, designed to help landlords and property managers efficiently manage apartments, houses, tenants, invoices, and payments.
+A simple yet comprehensive **Rental Property Management System** built using **PHP** and **MySQL**, designed to help landlords and property managers efficiently manage apartments, houses, tenants, invoices, and payments.
 
 ---
 
