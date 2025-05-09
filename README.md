@@ -2,6 +2,8 @@
 
 A simple yet comprehensive **Rental Property Management System** built using **PHP** and **MySQL**, designed to help landlords and property managers efficiently manage apartments, houses, tenants, invoices, and payments.
 
+----create a folder 'includes' and cut paste db.php---
+----create another folder 'auth' and cut paste login.php and logout.php
 ---
 
 ## 🔧 Features
