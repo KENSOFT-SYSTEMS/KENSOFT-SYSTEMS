@@ -41,7 +41,7 @@ A simple yet comprehensive **Rental Property Management System** built using **P
 ## 🖥️ Technologies Used
 
 - **PHP (Procedural)**
-- **MySQLi**
+- **MySQL**
 - HTML5, CSS3, JavaScript
 - Bootstrap 4/5 (for styling)
 - DataTables (for filtering, sorting)
