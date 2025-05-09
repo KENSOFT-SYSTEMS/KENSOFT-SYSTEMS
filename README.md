@@ -4,7 +4,11 @@ A simple yet comprehensive **Rental Property Management System** built using **P
 
 
 ### Dashboard
-![Dashboard](assets/github-001.png)
+![Dashboard](assets/github-002.png)
+![Login](assets/github-001.png)
+![View-Apartments](assets/github-003.png)
+![View-Payments](assets/github-004.png)
+![View-Tenants](assets/github-005.png)
 ### 🏘️ Property & Unit Management
 - Manage multiple **apartments/buildings**
 - Each apartment contains multiple **houses/units**
