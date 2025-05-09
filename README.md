@@ -2,7 +2,7 @@
 
 A simple yet comprehensive **Rental Property Management System** built using **PHP** and **MySQL**, designed to help landlords and property managers efficiently manage apartments, houses, tenants, invoices, and payments.
 
-
+https://github.com/KENSOFT-SYSTEMS/Rental-Property-Management-System/blob/main/assets/github-001.PNG?raw=true
 
 ### 🏘️ Property & Unit Management
 - Manage multiple **apartments/buildings**
