@@ -7,11 +7,11 @@ A simple yet comprehensive **Rental Property Management System** built using **P
 ---
 
 ## 🔧 Features
-(assets/github-001.PNG)
-(assets/github-002.PNG)
-(assets/github-003.PNG)
-(assets/github-004.PNG)
-(assets/github-005.PNG)
+assets/github-001.png
+assets/github-002.png
+assets/github-003.png
+assets/github-004.png
+assets/github-005.png
 
 ### 🏘️ Property & Unit Management
 - Manage multiple **apartments/buildings**
