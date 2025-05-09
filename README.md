@@ -64,4 +64,7 @@ A simple yet comprehensive **Rental Property Management System** built using **P
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/rental-management-system.git
+   git clone https://github.com/yourusername/rental-management-system.
+
+   Contact me Whatsapp ---254729529410---
+   Support ---paypal--- muthominyagah594@gmail.com---
