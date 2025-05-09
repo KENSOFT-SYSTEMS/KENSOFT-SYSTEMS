@@ -46,7 +46,10 @@ A simple yet comprehensive **Rental Property Management System** built using **P
 - TCPDF (optional, for PDF exports)
 
 ---
+### Contact me Whatsapp ---254729529410---
+   Support ---paypal--- muthominyagah594@gmail.com---
 
+   
 ## 🚀 How to Install & Run Locally
 
 ### ✅ Requirements
@@ -64,5 +67,4 @@ A simple yet comprehensive **Rental Property Management System** built using **P
    ```bash
    git clone https://github.com/yourusername/rental-management-system.
 
-   Contact me Whatsapp ---254729529410---
-   Support ---paypal--- muthominyagah594@gmail.com---
+   
